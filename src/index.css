@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.heading{
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  padding-top: 12px;
+  background-color: black;
+  padding-bottom: 11px;
+}
+
+p{
+  color:snow;
+  font-weight: 800;
+}
+
+span{
+  color:rgb(243, 13, 13);
+  background-color: black;
+  font-size: 40px;
+}
